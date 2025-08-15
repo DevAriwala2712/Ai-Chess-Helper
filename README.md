@@ -2,7 +2,7 @@
 A lightweight chess-playing AI with a clickable GUI, built using Python-Chess, PyTorch, and Tkinter. It includes a full pipeline: parse PGNs, build a dataset, train a neural network to predict moves, and play via GUI or terminal.
 
 Features
-Tkinter GUI with Unicode chess pieces and clickable moves.
+*Tkinter GUI with Unicode chess pieces and clickable moves.
 
 AI move prediction with a trained PyTorch model (ChessNet).
 
